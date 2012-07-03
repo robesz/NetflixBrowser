@@ -1,0 +1,2 @@
+Netflix OData Metro App. See http://codefoster.com/post/2012/06/13/netflixstage1.aspx for details.
+Using JayData instead of native WinJS.xhr to abstract OData access.
